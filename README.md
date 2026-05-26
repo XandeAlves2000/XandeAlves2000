@@ -19,6 +19,7 @@
 - Figma
 - React (learning)
 - Node.js (learning)
+- Python (learning)
 
 📚 Constantly learning, evolving, and exploring new technologies.
 
