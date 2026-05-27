@@ -32,5 +32,3 @@
 - Keep learning and growing every day
 
 Thanks for visiting my profile! 🚀
-
-[![Alexandre Digital GitHub stats](https://github-readme-stats.vercel.app/api?username=XandeAlves2000)](https://github.com/anuraghazra/github-readme-stats)
